@@ -1,3 +1,4 @@
+# method which optionally accepts a block
 def block_example
 	puts 'Optional block example.'
 	if block_given?

@@ -1,3 +1,4 @@
+# avoiding bolder plate code
 def with_timing
 	start = Time.now
 	if block_given?
