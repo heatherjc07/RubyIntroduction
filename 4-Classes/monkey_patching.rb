@@ -2,8 +2,7 @@
 # be CAREFUL!
 class String
   def shout
-     self.upcase!
-     self + "!!!"
+     self.upcase + "!!!" 
   end
 
   def empty?
